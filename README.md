@@ -33,9 +33,10 @@ This Power BI dashboard provides an overview of employee attrition in the Human 
 ![Image](https://github.com/user-attachments/assets/326bef94-6ab4-4986-b693-dd153f8a5a60)
 
 This Power BI dashboard provides an overview of employee attrition in the Research and Development department.
-
+![Image](https://github.com/user-attachments/assets/a6a8af17-0e5b-4edc-b19b-5028193d956a)
 
 This Power BI dashboard provides an overview of employee attrition in the Sales department.
+![Image](https://github.com/user-attachments/assets/c0b32529-d4a8-4ed6-861c-a019ea7cd4cb)
 
 ## Get Started
 1. Download the project files.
