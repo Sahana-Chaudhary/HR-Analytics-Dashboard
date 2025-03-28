@@ -29,6 +29,13 @@ A sleek and interactive Power BI dashboard for HR analytics, visualizing attriti
 - Improve HR Decision-Making – Use data to enhance employee engagement and workplace policies.
 - Enhance Workforce Planning – Gain insights to develop better recruitment and retention programs.
 
+This Power BI dashboard provides an overview of employee attrition in the Human Resources department.
+![Image](https://github.com/user-attachments/assets/326bef94-6ab4-4986-b693-dd153f8a5a60)
+
+This Power BI dashboard provides an overview of employee attrition in the Research and Development department.
+
+
+This Power BI dashboard provides an overview of employee attrition in the Sales department.
 
 ## Get Started
 1. Download the project files.
