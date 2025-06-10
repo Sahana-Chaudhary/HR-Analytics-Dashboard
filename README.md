@@ -19,8 +19,8 @@ A sleek and interactive Power BI dashboard for HR analytics, visualizing attriti
 - DAX & Power Query – For data modeling and transformation.
 
 ## Key Insights
-- The 26-35 age group has the highest attrition rate.
 - Laboratory Technicians experience the most attrition among job roles.
+- The 26-35 age group has the highest attrition rate.
 - Employees with a salary below $5K are more likely to leave.
 - Job satisfaction varies significantly across different roles, affecting retention.
 
